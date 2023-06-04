@@ -1,6 +1,6 @@
 ﻿### Hi there, I'm Murtaja
 
-[![Linkedin Badge](https://img.shields.io/badge/-MurtajaAdnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murtaja-adnan/)](https://www.linkedin.com/in/murtaja-adnan/)
+[![Linkedin Badge](https://img.shields.io/badge/-Murtaja&nbsp;Adnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murtaja-adnan/)](https://www.linkedin.com/in/murtaja-adnan/)
 [![Gmail Badge](https://img.shields.io/badge/-murtajaadnan7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murtajaadnan7@gmail.com)](mailto:murtajaadnan7@gmail.com)
 
 Over the past three years, I've developed expertise as a software developer, actively contributing to diverse projects involving multiple technologies. Notably, I played a key role in building Seat Score, a smart attendance web app, and a delivery mobile application.
