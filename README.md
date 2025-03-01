@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Murtaja&nbsp;Adnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murtaja-adnan/)](https://www.linkedin.com/in/murtaja-adnan/)
 [![Gmail Badge](https://img.shields.io/badge/-murtajaadnan7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murtajaadnan7@gmail.com)](mailto:murtajaadnan7@gmail.com)
 
-Over the past three years, I've developed expertise as a software developer, actively contributing to diverse projects involving multiple technologies. Notably, I played a key role in building Seat Score, a smart attendance web app, and a delivery mobile application.
+Over the past five years, I've developed expertise as a software developer, actively contributing to diverse projects involving multiple technologies. Notably, I played a key role in building Seat Score, a smart attendance web app, and a delivery mobile application.
 <br/>
 <br/>
 My focus extends to Odoo development and Implementation, an open-source ERP platform. With extensive experience in Odoo, I've successfully implemented customized solutions, streamlined business processes, and improved operational efficiency for clients.
@@ -12,7 +12,7 @@ My focus extends to Odoo development and Implementation, an open-source ERP plat
 As a dedicated and constantly improving developer, I prioritize staying up-to-date with industry trends. By combining technical expertise with a commitment to delivering high-quality work, I consistently exceed expectations and drive project success.
 <br/>
 <br/>
-Wanna build the next biggest Project in the Universe or Have Odoo Customization? Find me at: murtajaadnan7@gmail.com
+Wanna build the next biggest Project in the Universe or have Odoo Customization? Find me at: murtajaadnan7@gmail.com
 
 ![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=python&logoColor=white)
 ![Odoo](https://img.shields.io/badge/-Odoo-purple?style=flat-square&logo=odoo&logoColor=white)
